@@ -1,0 +1,34 @@
+[
+    {
+      "Image": "forEachImage/juice.jpg",
+      "Name": "Pomegranate Juice",
+      "Ingredients": "3 pomegranates (should yield about 3 cups of arils)\n1 cup water",
+      "CookingInstructions": "Cut pomegranates in half using a sharp knife.Hold the pomegranate half over a bowl and smack the rind with a large wooden spoon. The seeds will eject from the pomegranate directly into the bowl, leaving only a few more deeply embedded seeds to remove. You can run your fingers to get them out.Place pomegranate arils and water in a blender and blend for 1 to 2 minutes.Strain the juice using a strainer (or a sieve) lined with paper towel (or a cheesecloth) over a large bowl to catch the juice.Leave a few minutes and then carefully squeeze the paper towel to collect as much juice as possible.Keep pomegranate juice in a sealed container and drink within the next five days.",
+      "time": "30 mins",
+      "id": "1"
+    },
+    {
+      "Image": "forEachImage/pancake.jpg",
+      "Name": "Pancake",
+      "Ingredients": "flour\nbaking powder\negg\nmilk\nvanilla essence\na little sugar\nand salt\nalso need Strawberrys",
+      "CookingInstructions": "Whisk together the dry ingredients. (photo 1)Melt the butter, (I do this in a microwave-proof jug, that's large enough to hold all the wet ingredients, which means fewer dishes!)Whisk together the wet ingredients (melted butter, egg, vanilla, milk). (photo 2) Add the wet ingredients to the dry ingredients, whisk them until well combined. (photos 5,6). There may be a few lumps, don't worry about these.Leave the batter to rest for 10 mins While the batter is resting, dice the strawberries into 1cm cubes (make sure you remove the leaves lol.) (photo 7).Fold the diced strawberries into the pancake batter. (photo 8).",
+      "time": "20 mins",
+      "id": "2"
+    },
+    {
+      "Image": "forEachImage/mochi.jpg",
+      "Name": "Peach Mochi",
+      "Ingredients": "flour\nbaking powder\negg\nmilk\nvanilla essence\na little sugar\nand salt\nalso need Strawberrys",
+      "CookingInstructions": "Whisk together the dry ingredients. (photo 1)Melt the butter, (I do this in a microwave-proof jug, that's large enough to hold all the wet ingredients, which means fewer dishes!)Whisk together the wet ingredients (melted butter, egg, vanilla, milk). (photo 2) Add the wet ingredients to the dry ingredients, whisk them until well combined. (photos 5,6). There may be a few lumps, don't worry about these.Leave the batter to rest for 10 mins While the batter is resting, dice the strawberries into 1cm cubes (make sure you remove the leaves lol.) (photo 7).Fold the diced strawberries into the pancake batter. (photo 8).",
+      "time": "45 mins",
+      "id": "3"
+    },
+    {
+      "Image": "forEachImage/berryCake.jpg",
+      "Name": "Cherry Cream Cake",
+      "Ingredients": "Mochi Dough\n100g glutinous rice flour\n30g cornstarch\n45g granulated sugar\n180g milk\n20g vegetable oil\nSome food coloring\nPeach Filling\n500g fresh peach\n150g water\n100g granulated sugar\n10g lemon juice\n200g heavy cream\n20g sugar",
+      "CookingInstructions": "Wash the peaches thoroughly. Peel and core the peaches, save the peach skins, chop into small cubes, transfer to a clean bowl, and mix well with sugar. Cover it with plastic wrap and let it set in the fridge for 30 minutes.Grab a saucepan, put in peach skins and water, let cook and boil for 5 minutes. Sift out the peach skins. Add in the peach cubes, let cook over medium heat, keep stirring and mixing until softened and thickened. Add in lemon juice, mix and stir over medium heat until thickened. Set aside to let cool.In a clean bowl, mix well glutinous rice flour, cornstarch, granulated sugar, and milk. Add in some food coloring (a very small drop will do), mix well. Add in vegetable oil and mix well.Grab a nonstick pan, pour in the batter, over medium heat, keep mixing and stirring and the batter will start to clump together and forms a dough ball. The dough ball will not stick to the pan, and the texture is quite translucent and stretchy. Wear gloves, knead, fold, and pull the dough until it becomes very stretchy.In a clean bowl, bring together heavy cream and sugar, beat until it forms stiff peaks. Transfer them into a piping bag, set in the fridge to keep cool.Dust the kneading mat, rolling pin, mochi dough with some flour. Roll the mochi dough into a long thin log, and divide into 8 equal pieces. Roll each piece into round circles; add in whipped cream and the peach sauce, wrap them up, and put in a cupcake liner and serve. You can also shape them like a real peach and garnish with mint leaves.",
+      "time": "1h 15mins",
+      "id": "4"
+    }
+]

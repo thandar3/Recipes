@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Mali:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;1,200;1,300;1,400;1,500;1,600;1,700&display=swap');
+
+body{
+    margin: 0;
+    padding: 0;
+   
+    background-color: #d0f5f6;
+}
+.title1{
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    margin-right: 10px;
+    font-family: "Mali", cursive;
+}
+.thingyan_tilte{
+    font-family: "Mali", cursive;
+    color: #D862BC;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+.cards{
+    max-height: 1000px;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    margin-top: 200px;
+}
+.btn_thingyan{
+    background-color: #D862BC;
+    padding: 10px;
+    border-radius: 10px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+.thingyan {
+    border-radius: 10px;
+}
+.thingyan a {
+    text-decoration: none;
+    color: white;
+}
+.btn_desert{
+    background-color: #D862BC;
+    padding: 10px;
+    border-radius: 10px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+.deserts a{
+    text-decoration: none;
+    color: white;
+}
